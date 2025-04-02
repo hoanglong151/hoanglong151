@@ -12,9 +12,9 @@ My name is Nguyen Pham Hoang Long, and I’m currently working as a Frontend Dev
 <a href="https://www.github.com/hoanglong151" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hoanglong151?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-# Socials
+# 🌍 Socials:
 
-<p align="center"> <a href="https://www.github.com/hoanglong151" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/long-nguyễn-6a177a352/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center"> <a href="https://www.github.com/hoanglong151" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" /> </picture> </a> <a href="https://www.linkedin.com/in/long-nguyễn-6a177a352/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" /> </picture> </a></p>
 
 # 💻 Tech Stack:
 <p align="center">
@@ -28,6 +28,11 @@ src="https://img.shields.io/github/followers/hoanglong151?logo=github&style=for-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoanglong151/hoanglong151/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/hoanglong151/hoanglong151/output/github-snake.svg" />
 </picture>
+
+# Badge:
+<a href="http://www.github.com/hoanglong151"><img src="https://github-readme-stats.vercel.app/api?username=hoanglong151&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hoanglong151's GitHub stats" /></a>
+
+<a href="http://www.github.com/hoanglong151"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglong151&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!--
 **hoanglong151/hoanglong151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
