@@ -30,11 +30,7 @@ src="https://img.shields.io/github/followers/hoanglong151?logo=github&style=for-
 </picture>
 
 # 📊 GitHub Stats:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hoanglong151&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hoanglong151&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoanglong151&show_icons=true&theme=dark&hide_border=true)
-<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglong151&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
