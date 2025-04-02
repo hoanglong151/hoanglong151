@@ -2,10 +2,8 @@
 
 <img src="public/logo-innest.png" alt="GitHub Banner" width="100%" />
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Pham Hoang Long
-==============================================================================================================================================
-
-I’m currently working as a Frontend Developer . I have over 2 years of experience in web application development, particularly in user interface design and optimization. With my skills in HTML, CSS, JavaScript, and modern frontend technologies (Reactjs, NextJs), I always strive to deliver high-quality products and the best user experience. I’m excited to connect and learn with you all!
+## Hi there 👋
+My name is Nguyen Pham Hoang Long, and I’m currently working as a Frontend Developer . I have over 2 years of experience in web application development, particularly in user interface design and optimization. With my skills in HTML, CSS, JavaScript, and modern frontend technologies (Reactjs, NextJs), I always strive to deliver high-quality products and the best user experience. I’m excited to connect and learn with you all!
 
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [innest.dev](http://innest.dev)
