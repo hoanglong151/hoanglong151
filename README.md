@@ -11,14 +11,14 @@ Hi everyone, my name is Nguyen Pham Hoang Long, and I’m currently working as a
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,mongodb,postman,redux,scss,github,nextjs,express,nodejs,tailwind,vscode,mui,nest,react,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,mongodb,postman,redux,scss,github,nextjs,express,nodejs,tailwind,vscode,mui,nest,react&perline=9" />
   </a>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoanglong151/hoanglong151/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoanglong151/hoanglong151/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hoanglong151/hoanglong151/output/github-snake.svg" />
 </picture>
 
 <!--
