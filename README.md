@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/hoanglong151?logo=github&style=for-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/long.las.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/long-nguyễn-6a177a352) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenphamhoanglong2000@gmail.com) 
 
 # 💻 Tech Stack:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,mongodb,postman,redux,scss,github,nextjs,express,nodejs,tailwind,vscode,mui,nest,react&perline=9" />
   </a>
