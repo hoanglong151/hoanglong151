@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/hoanglong151?logo=github&style=for-
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hoanglong151)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hoanglong151&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoanglong151&show_icons=true&theme=dark&hide_border=true)
 <br />
