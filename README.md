@@ -3,7 +3,7 @@
 <img src="public/logo-innest.png" alt="GitHub Banner" width="100%" />
 
 ## Hi there 👋
-My name is Nguyen Pham Hoang Long, and I’m currently working as a Frontend Developer . I have over 2 years of experience in web application development, particularly in user interface design and optimization. With my skills in HTML, CSS, JavaScript, and modern frontend technologies (Reactjs, NextJs), I always strive to deliver high-quality products and the best user experience. I’m excited to connect and learn with you all!
+I am currently working as a Frontend Developer with 3+ years of experience building SaaS platforms, internal systems, and SEO-focused web applications using Next.js and TypeScript. Interested in realtime systems, business workflows, and scalable product architecture.
 
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [innest.dev](http://innest.dev)
